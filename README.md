@@ -1,6 +1,6 @@
 **I learned to make this app by following a course on Front End Masters. Thanks to Kadi Kraman with Formidable for creating a fun and useful way to learn React Native!! 😀**
 
-# This is a repo for Front End Masters Intro to React Native Workshop on March 6, 2020
+## This is a repo for Front End Masters Intro to React Native Workshop on March 6, 2020
 
 [See the course website here][v5] and click Join Now to sign up for Front End Masters. I'm not an affiliate or anything, I just really dig their courses!!
 
